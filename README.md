@@ -30,19 +30,19 @@ La maggior parte delle metriche di valutazione sono state implementate manualmen
 ## Modello Autoencoder
 Il modello Autoencoder utilizzato è illustrato nella figura sottostante. 
 <div style="display: flex;">
-    <img src="./images/autoencoder.png" alt="Modello Autoencoder" style="width: 70%;">
+    <img src="./images/autoencoder.PNG" alt="Modello Autoencoder" style="width: 70%;">
 </div>
 <br>
 Di cui si riportano sotto anche la composizione di Encoder e Decoder.
 <div style="display: flex;">
-    <img src="./images/encoder.png" alt="Encoder" style="width: 70%;">
+    <img src="./images/encoder.PNG" alt="Encoder" style="width: 70%;">
 </div>
 <div style="display: flex;">
-    <img src="./images/encoder2.png" alt="Encoder" style="width: 70%;">
+    <img src="./images/encoder2.PNG" alt="Encoder" style="width: 70%;">
 </div>
 <br>
 <div style="display: flex;">
-    <img src="./images/decoder.png" alt="Decoder" style="width: 70%;">
+    <img src="./images/decoder.PNG" alt="Decoder" style="width: 70%;">
 </div>
 <br>
 
